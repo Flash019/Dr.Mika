@@ -1,0 +1,15 @@
+# Ignore environment and cache
+.env
+__pycache__/
+*.pyc
+
+# Ignore all Mika directories anywhere
+**/mika/
+
+# Ignore webp images
+*.webp
+
+# Ignore node_modules or build files if present
+node_modules/
+dist/
+build/
