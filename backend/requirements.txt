@@ -1,6 +1,7 @@
 groq
 python-dotenv
 ffmpeg
-sounddevice
+pyaudio
 speechrecognition
 pydub
+faster-whisper
