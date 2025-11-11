@@ -5,3 +5,6 @@ pyaudio
 speechrecognition
 pydub
 faster-whisper
+gtts
+elevenlabs
+playsound
